@@ -1,11 +1,12 @@
 # Smart-School-Bus-Tracking-and-routes-detail
-The "Smart School Bus Tracking and routes detail." project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology.
+The "GeoBus Navigator" project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology.
 
 **Introduction:**
-The "Smart School Bus Tracking and routes detail" project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology. The project utilizes GPS technology to provide real-time tracking of university buses and their routes, allowing users to easily view the location and estimated arrival time of their bus. Additionally, the project provides detailed information on all bus routes and the drivers assigned to each route, allowing users to make more informed decisions about their transportation options.
+The "GeoBus Navigator"  project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology. The project utilizes GPS technology to provide real-time tracking of university buses and their routes, allowing users to easily view the location and estimated arrival time of their bus. Additionally, the project provides detailed information on all bus routes and the drivers assigned to each route, allowing users to make more informed decisions about their transportation options.
+The  project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology. The project utilizes GPS technology to provide real-time tracking of university buses and their routes, allowing users to easily view the location and estimated arrival time of their bus. Additionally, the project provides detailed information on all bus routes and the drivers assigned to each route, allowing users to make more informed decisions about their transportation options.
 
 **Problem Statement:**
-The problem that the "Smart School Bus Tracking and routes detail" project aims to address is the lack of visibility and accessibility of information regarding university bus transportation for students and staff. Specifically, new students often struggle to learn the bus routes from their homes to the university and the driver details, and are unable to track the location of their bus, leading to missed buses and difficulty with transportation planning. Additionally, current students and staff may not have access to real-time information about bus location and estimated arrival times, making it difficult to plan their commutes. This project is aimed to provide a solution by creating a real-time bus tracking system, which will allow students and staff to view the location and estimated arrival time of their bus, as well as detailed information on all bus routes and the drivers assigned to each route. This will help the students and staff to plan their commutes, and increase their transportation efficiency.
+The problem that the "GeoBus Navigator"  project aims to address is the lack of visibility and accessibility of information regarding university bus transportation for students and staff. Specifically, new students often struggle to learn the bus routes from their homes to the university and the driver details, and are unable to track the location of their bus, leading to missed buses and difficulty with transportation planning. Additionally, current students and staff may not have access to real-time information about bus location and estimated arrival times, making it difficult to plan their commutes. This project is aimed to provide a solution by creating a real-time bus tracking system, which will allow students and staff to view the location and estimated arrival time of their bus, as well as detailed information on all bus routes and the drivers assigned to each route. This will help the students and staff to plan their commutes, and increase their transportation efficiency.
 
 **Objectives:**
 
@@ -284,8 +285,6 @@ We have used MySQL for this project. And the relationships can be seen below in 
 In conclusion, the UET bus live routes and tracking system is a useful tool for students, staff, and faculty at the University of Engineering and Technology. It allows users to track the location and estimated arrival time of buses in real-time, making it easier to plan their commutes and navigate the campus. Additionally, the system helps the university to improve the efficiency and safety of its transportation services by providing real-time data on bus movements. Overall, the implementation of this system has been successful in meeting its goals and has received positive feedback from users.
 
 
-**References:**
-[1] https://www.apm.org.uk/resources/find-a-resource/agile-project-management/
-[2]https://www.google.com/search?client=opera&q=what+is+geolocation+api&sourceid=opera&ie=UTF-8&oe=UTF-8
+
 
 
