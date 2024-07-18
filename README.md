@@ -1,4 +1,4 @@
-# Smart-School-Bus-Tracking-and-routes-detail
+# GeoBus Navigator
 The "GeoBus Navigator" project aims to improve the efficiency and convenience of university bus transportation for students and staff by utilizing geolocation technology.
 
 **Introduction:**
